@@ -1,4 +1,4 @@
-# inal Integrated Project
+# Final Integrated Project
 
 This is Oksil’s final integrated assignment. I create a three page website based on the HTML/CSS. The theme of my website is **Korean foods**. The inspiration for my creation comes from my country, which has huge various food base on sea, ground, mountain. I hope to spread Korean food through my website.
 
