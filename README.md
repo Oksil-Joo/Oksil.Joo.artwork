@@ -2,15 +2,15 @@
 
 This is Oksil’s final integrated assignment. I create a three page website based on the HTML/CSS. The theme of my website is **Korean foods**. The inspiration for my creation comes from my country, which has huge various food base on sea, ground, mountain. I hope to spread Korean food through my website.
 
-## Prerequisites
+### Prerequisites
 All you need is a **computer** with an internet connection and a browser.
 
-## Usage
+### Usage
 _Download the main branch_ and visit the site in browser.
 
 ### Images & Videos Sources
-⋅⋅* Related [data](https://www.thespruceeats.com/traditional-and-classic-korean-recipes-4118376)
-⋅⋅* Video [Source](https://youtu.be/Jf7Dszr2_Nw)
+* Related [data](https://www.thespruceeats.com/traditional-and-classic-korean-recipes-4118376)
+* Video [Source](https://youtu.be/Jf7Dszr2_Nw)
 
 ### Contributing
 1. Create your branch: `git checkout -b oksil.J.indexHTML`
