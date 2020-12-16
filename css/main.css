@@ -1,0 +1,284 @@
+@charset "UTF-8"
+
+.hidden
+{
+	display: none;
+}
+
+.hidden
+{
+	display: none;
+}
+
+#container1
+
+{
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 10px;
+	width: 960px;
+}
+
+#mainHeader
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 0 auto;
+	padding: 0 auto;
+
+}
+
+#logo
+{
+	width: 156px;
+	height: 89px;
+	margin-bottom: 10px;
+}
+
+#socialCon
+{
+	width: 650px;
+}
+
+#socialNav
+{
+	width: 180px;
+	height: 49px;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.navBt
+{
+	width: 49px;
+	margin-left: 5px;
+}
+
+#mainCon
+{
+	background-color: #603813;
+	height: 45px;
+	padding: 0;
+	margin: 0 auto;
+}
+
+#navCon
+{
+ 	display: flex;
+	flex-flow: row;
+	justify-content: center;
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 10px;
+	overflow: hidden;
+}
+
+li
+{
+	list-style: none;
+}
+
+a:link {
+	text-decoration-line: none;
+	color: #fff;
+	font-family: "Helvetica Neue", "Arial Black", sans-serief;
+}
+
+a:visited {
+	text-decoration-line: none;
+	color: #fff;
+	font-family: "Helvetica Neue", "Arial Black", sans-serief;
+}
+
+a:hover, a:active {
+	text-decoration: none;
+	color: #ff7500;
+	font-family: "Helvetica Neue", "Arial Black", sans-serief;
+}
+#mainNav
+{
+	font-size: 24px;
+	text-align: center;
+}
+
+.navli
+{
+	display: inline;
+	padding: 0px 50px 0px 50px;
+}
+
+.bt
+{
+	margin: 10px;
+	padding: 0 auto;
+}
+
+
+/* Here is a MainImage Part */
+#container2
+{
+	margin: 0 auto;
+	padding: 0 auto;
+	overflow: hidden;
+	width: 960px;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#wideImage
+{
+	width: 960px;
+	height: 462px;
+	padding: 0 auto;
+}
+
+#container3
+{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 0 auto;
+	overflow: hidden;
+	background-color: #ffe1cb;
+	display: flex;
+	flex-flow: row;
+	justify-content: center;
+}
+
+#imageText
+{
+	width: 600px;
+	height: 255px;
+	padding-top: 50px;
+	text-align: center;
+	font-family: "Helvetica", "Arial", sans-serief;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+.mainTitle
+{
+	font-family: "Plantagenet Cherokee", "Times new loman", sans-serief;
+	color: #603813;
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-size: 26px;
+}
+
+/* Here is a Promotion Part */
+
+.promoToptext
+{
+	font-family: "Plantagenet Cherokee", "Times new loman", sans-serief;
+	color: #603813;
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-size: 26px;
+	padding: 30px 10px 0px 10px;
+}
+
+.promoContenttext
+{
+	font-family: "Helvetica", "Arial", sans-serief;
+	margin-bottom: 20px;
+	font-size: 14px;
+	padding: 0px 10px 10px 10px;
+}
+
+#container4
+{
+	margin: 0 auto;
+	padding: 0 auto;
+	overflow: hidden;
+	width: 960px;
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+}
+
+.promoProduct
+{
+	width: 294px;
+	height: 428px;
+}
+
+
+#container5
+{
+	margin: 0 auto;
+	padding: 0 auto;
+	overflow: hidden;
+	width: 960px;
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+}
+
+.promotext
+{
+	width: 294px;
+	height: 206px;
+	background-color: #eee;
+	margin-bottom: 10px;
+}
+
+/* Here is a Footer Part */
+
+#mainFooter
+{
+	background-color: #603813;
+	height: 150px;
+	padding: 20px 0px 20px 0px;
+	margin: 0;
+}
+
+#footerCon
+{
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+	width: 960px;
+	margin: 0 auto;
+	padding: 0 auto;
+	overflow: hidden;
+}
+
+#footerNav
+{
+	width: 294px;
+	height: 100px;
+	text-align: left;
+	line-height: 25px;
+}
+
+.footertitle
+{
+	color: #fff;
+	font-family: "Helvetica Neue", "Arial Black", sans-serief;
+	font-size: 14px;
+}
+
+.footerDes
+{
+	color: #fff;
+	font-family: "Helvetica", "Arial", sans-serief;
+	font-size: 12px;
+	margin-bottom: 10px;
+
+}
+
+#soNav
+{
+	width: 294px;
+	height: 100px;
+	text-align: left;
+	line-height: 25px;
+}
+
+#contact
+{
+	width: 294px;
+	height: 100px;
+	text-align: left;
+	line-height: 25px;
+}
