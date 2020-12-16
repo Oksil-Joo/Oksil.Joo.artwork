@@ -1,0 +1,296 @@
+.hidden
+{
+	display: none;
+}
+
+.hidden
+{
+	display: none;
+}
+
+#container1
+
+{
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 10px;
+	width: 960px;
+}
+
+#mainHeader
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 0 auto;
+	padding: 0 auto;
+
+}
+
+#logo
+{
+	width: 156px;
+	height: 89px;
+	margin-bottom: 10px;
+}
+
+#socialCon
+{
+	width: 650px;
+}
+
+#socialNav
+{
+	width: 180px;
+	height: 49px;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.navBt
+{
+	width: 49px;
+	margin-left: 5px;
+}
+
+#mainCon
+{
+	background-color: #603813;
+	height: 45px;
+	padding: 0;
+	margin: 0 auto;
+}
+
+#navCon
+{
+ 	display: flex;
+	flex-flow: row;
+	justify-content: center;
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 10px;
+	overflow: hidden;
+}
+
+li
+{
+	list-style: none;
+}
+
+a:link {
+	text-decoration-line: none;
+	color: #fff;
+	font-family: "Helvetica Neue", "Arial Black", sans-serief;
+}
+
+a:visited {
+	text-decoration-line: none;
+	color: #fff;
+	font-family: "Helvetica Neue", "Arial Black", sans-serief;
+}
+
+a:hover, a:active {
+	text-decoration: none;
+	color: #ff7500;
+	font-family: "Helvetica Neue", "Arial Black", sans-serief;
+}
+#mainNav
+{
+	font-size: 24px;
+	text-align: center;
+}
+
+.navli
+{
+	display: inline;
+	padding: 0px 50px 0px 50px;
+}
+
+.bt
+{
+	margin: 10px;
+	padding: 0 auto;
+}
+
+#container3
+{
+	margin-bottom: 10px;
+	padding: 0 auto;
+	overflow: hidden;
+	background-color: #ffe1cb;
+	display: flex;
+	flex-flow: row;
+	justify-content: center;
+}
+
+#imageText
+{
+	width: 600px;
+	height: 100px;
+	padding-top: 70px;
+	text-align: center;
+	font-family: "Helvetica", "Arial", sans-serief;
+	font-size: 16px;
+}
+
+.mainTitle
+{
+	font-family: "Plantagenet Cherokee", "Times new loman", sans-serief;
+	color: #603813;
+	font-weight: bold;
+	font-size: 32px;
+}
+
+#formCon
+{
+	overflow: hidden;
+	display: flex;
+	flex-flow: row; 
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+#container7
+{
+	width: 960px;
+	height: 630px;
+	overflow: hidden;
+	display: flex;
+	flex-flow: row; 
+	justify-content: space-between;
+	background-color: #efefef;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+
+#getConLeft
+{
+	display: flex;
+	flex-flow: column;
+	justify-content:flex-start; 
+	width: 400px;
+	padding: 70px 0px 50px 50px;
+	margin: 0 auto;
+}
+
+#getConRight
+{
+	display: flex;
+	flex-flow: column;
+	justify-content:flex-start; 
+	width: 400px;
+	padding: 70px 50px 50px 0px;
+	margin: 0 auto;
+}
+
+.infortext
+{
+	font-size: 16px;
+	font-style: "Helvetica", "Arial", "sans-serie";	
+	margin-bottom: 50px;
+}
+
+.inforTop
+{
+	width: 400px;
+	font-size: 32px;
+	font-family: "Helvetica", "Arial", "sans-serief";
+	font-weight: bold;
+	color: #603813;
+	margin-bottom: 30px;
+
+}
+
+.getbottom
+{
+	width: 400px;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "Helvetica", "Arial", "sans-serief";
+	align-items: flex-end;
+	line-height: 30px;
+}
+
+.imgAlign
+{
+	float: flex;
+	margin: 0 auto;
+	display: block;
+	margin-bottom: 35px;
+}
+
+input, textarea
+{
+	border: solid;
+	border-width: 2px;
+	border-color: #603813;
+	font-family: "Helvetica", "Arial", "sans-serief";
+	font-size: 16px;
+	padding: 5px 20px 0px 20px;
+	margin-bottom: 30px;
+	background: #fff;
+	color: #603813;
+	border-radius: 5px;
+}
+
+/* Here is a Footer Part */
+
+#mainFooter
+{
+	background-color: #603813;
+	height: 150px;
+	padding: 20px 0px 20px 0px;
+	margin: 0;
+}
+
+#footerCon
+{
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+	width: 960px;
+	margin: 0 auto;
+	padding: 0 auto;
+	overflow: hidden;
+}
+
+#footerNav
+{
+	width: 294px;
+	height: 100px;
+	text-align: left;
+	line-height: 25px;
+}
+
+.footertitle
+{
+	color: #fff;
+	font-family: "Helvetica Neue", "Arial Black", sans-serief;
+	font-size: 14px;
+}
+
+.footerDes
+{
+	color: #fff;
+	font-family: "Helvetica", "Arial", sans-serief;
+	font-size: 12px;
+	margin-bottom: 10px;
+
+}
+
+#soNav
+{
+	width: 294px;
+	height: 100px;
+	text-align: left;
+	line-height: 25px;
+}
+
+#contact
+{
+	width: 294px;
+	height: 100px;
+	text-align: left;
+	line-height: 25px;
+}
